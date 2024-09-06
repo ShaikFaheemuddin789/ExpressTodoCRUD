@@ -1,0 +1,34 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "task": "Do the laundry",
+      "status": false
+    },
+    {
+      "id": 2,
+      "task": "Finish project",
+      "status": false
+    },
+    {
+      "id": 3,
+      "task": "Read a book",
+      "status": true
+    },
+    {
+      "id": 4,
+      "task": "Exercise",
+      "status": false
+    },
+    {
+      "id": 5,
+      "task": "Comple task 1",
+      "status": false
+    },
+    {
+      "id": 6,
+      "task": "Do Dsa",
+      "status": false
+    }
+  ]
+}
